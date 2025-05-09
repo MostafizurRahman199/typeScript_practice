@@ -1,0 +1,11 @@
+union
+interface 
+difference between interface and union
+
+class
+private, protected, public (access modifiers) usecases of each
+get, set
+
+abstract class
+
+generics type
